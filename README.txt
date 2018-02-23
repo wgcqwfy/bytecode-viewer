@@ -418,3 +418,6 @@ Changelog:
 07/30/2015 - Affssdd fixed the File Navigator Pane's Quick Class Search.
 07/30/2015 - Fixed a process leak in KrakatauDisassembler.
 07/30/2015 - Started working on converting all the decompilers to launch in their own process in an effort to reduce BCV resources (only for non-fatjar version).
+
+
+bytecodeviewer是一款简单易用功能强大的反编译软件。它是一款基于图形界面的Java反编译器，Java字节码编辑器，APK编辑器，Dex编辑器，APK反编译器，DEX反编译器。不仅如此，它还是一款Hex查看器，代码搜索器和代码调试器。除此之外，它还具备Smali和Baksmali等汇编器的相关功能。
