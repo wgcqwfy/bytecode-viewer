@@ -1,3 +1,5 @@
+bytecodeviewer是一款简单易用功能强大的反编译软件。它是一款基于图形界面的Java反编译器，Java字节码编辑器，APK编辑器，Dex编辑器，APK反编译器，DEX反编译器。不仅如此，它还是一款Hex查看器，代码搜索器和代码调试器。除此之外，它还具备Smali和Baksmali等汇编器的相关功能。
+
 Bytecode Viewer is an Advanced Lightweight Java Bytecode Viewer, GUI Java Decompiler, GUI Bytecode Editor, GUI Smali, GUI Baksmali, GUI APK Editor, GUI Dex Editor, GUI APK Decompiler, GUI DEX Decompiler, GUI Procyon Java Decompiler, GUI Krakatau, GUI CFR Java Decompiler, GUI FernFlower Java Decompiler, GUI DEX2Jar, GUI Jar2DEX, GUI Jar-Jar, Hex Viewer, Code Searcher, Debugger and more.
 It's written completely in Java, and it's open sourced. It's currently being maintained and developed by Konloch.
 
@@ -418,6 +420,3 @@ Changelog:
 07/30/2015 - Affssdd fixed the File Navigator Pane's Quick Class Search.
 07/30/2015 - Fixed a process leak in KrakatauDisassembler.
 07/30/2015 - Started working on converting all the decompilers to launch in their own process in an effort to reduce BCV resources (only for non-fatjar version).
-
-
-bytecodeviewer是一款简单易用功能强大的反编译软件。它是一款基于图形界面的Java反编译器，Java字节码编辑器，APK编辑器，Dex编辑器，APK反编译器，DEX反编译器。不仅如此，它还是一款Hex查看器，代码搜索器和代码调试器。除此之外，它还具备Smali和Baksmali等汇编器的相关功能。
